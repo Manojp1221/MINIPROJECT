@@ -1,4 +1,4 @@
-# Health-Care-Logistics-System
+# HOSPITAL MANAGEMENT SYSTEM
 This is basic web application for the hospital management system.
 This project is done by
 <br>
